@@ -11,9 +11,13 @@
 MIDIとMusicXMLによるピアノの楽譜データ。
 譜面はSibeliusによって作成し、アプリからSMFとMusicXMLをエクスポートした。
 
-### smfフォルダ
 
+## 関連リンク
 
-### musicxmlフォルダ
+* YouTube
+    
+    本データの楽譜とピアノ自動再生の動画
+    
+    https://www.youtube.com/playlist?list=PLUerrAh-bsOUqs8OhIjkVDF5aXpTfW62W
 
 
