@@ -1,5 +1,14 @@
 # simple short piano piece
 
+## Outline of this project
+
+A project that keeps making simple short piano pieces that fit on one page. The purpose is not just to publish as a work, but to make it learning data for machine learning. Or, I'm even more glad to be recognized as open data that can be used academically. Attempt to see if my brain composition system can be ported externally through my data.
+
+## About Data
+
+Piano sheet music data of MIDI and MusicXML.
+The score was created by Sibelius, and SMF and MusicXML were exported from the app.
+
 ## プロジェクト概要
 
 1ページに収まる平易なピアノ曲をひたすら作り続けるプロジェクト。
